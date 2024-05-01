@@ -1,16 +1,13 @@
-### Hi there 👋
+*Hi there 👽 I'm Enigmyy (or Emi)*
+* I Love PC Hardware
 
-<!--
-**Enigmyy/Enigmyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* I know basic Python and C#
 
-Here are some ideas to get you started:
+* I mess around with Unity and Blender FBX files
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* I'm Currently Learning for fun
+
+Contact Me:
+* Email: *enigmyy@gmail.com*
+* Discord: *@enigmy*
+
