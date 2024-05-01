@@ -1,4 +1,4 @@
-*Hi there 👽 I'm Enigmyy (or Emi)*
+*Hi there 👽 I'm Enigmyy (or Eni)*
 * I Love PC Hardware
 
 * I know basic Python and C#
